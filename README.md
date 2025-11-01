@@ -35,7 +35,7 @@ Visualization of KPIs for logistics and transportation data using Tableau.
 - **Data Cleaning and ETL for BI**  
 
 ## 🌐 Published Dashboards
-You can view my dashboards on [Tableau Public](You can view my dashboards on [Tableau Public](https://public.tableau.com/app/profile/judith.martinez](https://public.tableau.com/app/profile/judith.c.martinez/viz/DashboardEasyLoansFinal/DashboardEasyLoansFinal?publish=yes)) 
+You can view my dashboards on [Tableau Public](https://public.tableau.com/views/DashboardEasyLoansFinal/DashboardEasyLoansFinal?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )
 
 ---
 
