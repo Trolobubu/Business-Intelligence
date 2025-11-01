@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="banner.png" alt="Business Intelligence Portfolio — Tableau Dashboards & Analytics" width="100%">
 </p>
@@ -20,6 +21,11 @@ The dashboard explores:
 
 **Tools:** Tableau, Excel  
 **Focus:** Data visualization, financial insights, KPI monitoring  
+
+#### Files for Easy Loans
+- [Dashboard (.twbx)](dashboards/Easy_Loans.twbx)
+- [Dataset (.xlsx)](data/Easy_Loans_Data.xlsx)
+- [Project Report (.pdf)](docs/Easy_Loans_Report.pdf)
 
 ---
 
