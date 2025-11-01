@@ -6,12 +6,12 @@
 
 This repository showcases Business Intelligence dashboards and data analysis projects developed by **Judith Martínez**, focused on transforming operational and financial data into clear, actionable insights.
 
-## 🚀 Overview
+## Overview
 The goal of this portfolio is to demonstrate the process of designing, building, and presenting **interactive Tableau dashboards** that communicate business performance effectively.
 
-## 📊 Projects
+## Projects
 
-### 🟦 Easy Loans Dashboard
+### Easy Loans Dashboard
 A complete **Business Intelligence case study** using Excel data to design and build a **Tableau dashboard** for a fictional financial institution.  
 The dashboard explores:
 - Loan approval rates and customer segments  
@@ -29,7 +29,7 @@ Visualization of KPIs for logistics and transportation data using Tableau.
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 - **Tableau Desktop / Tableau Public**  
 - **Excel, SQL, Python (Pandas)**  
 - **Data Cleaning and ETL for BI**  
@@ -39,6 +39,6 @@ You can view my dashboards on [Tableau Public](You can view my dashboards on [Ta
 
 ---
 
-👩‍💻 **Author:** Judith Martínez  
+**Author:** Judith Martínez  
 [Portfolio Website](https://trolobubu.github.io) | [Email](mailto:mtz.amoros.judith@gmail.com)
 
